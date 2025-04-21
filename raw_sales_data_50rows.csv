@@ -1,0 +1,51 @@
+OrderID,Date,CustomerName,Country,Gender,Age,Product,Category,Quantity,UnitPrice
+1001,01-01-2023,Alice Johnson,USA,F,29,Headphones,Electronics,1,99.99
+1002,02-01-2023,Bob Smith,usa,M,35,Laptop,Electronics,1,899.0
+1003,02-01-2023,Charlie Lee,Canada,M,40,Coffee Maker,Home Appliances,2,45.5
+1004,,David Kim,Canada,M,40,Coffee Maker,Home Appliances,2,45.5
+1004,,David Kim,Canada,M,40,Coffee Maker,Home Appliances,2,45.5
+1001,01-01-2023,Alice Johnson,USA,F,29,Headphones,Electronics,1,99.99
+1002,02-01-2023,Bob Smith,usa,M,35,Laptop,Electronics,1,899.0
+1003,02-01-2023,Charlie Lee,Canada,M,40,Coffee Maker,Home Appliances,2,45.5
+1004,,David Kim,Canada,M,40,Coffee Maker,Home Appliances,2,45.5
+1004,,David Kim,Canada,M,40,Coffee Maker,Home Appliances,2,45.5
+1001,01-01-2023,Alice Johnson,USA,F,29,Headphones,Electronics,1,99.99
+1002,02-01-2023,Bob Smith,usa,M,35,Laptop,Electronics,1,899.0
+1003,02-01-2023,Charlie Lee,Canada,M,40,Coffee Maker,Home Appliances,2,45.5
+1004,,David Kim,Canada,M,40,Coffee Maker,Home Appliances,2,45.5
+1004,,David Kim,Canada,M,40,Coffee Maker,Home Appliances,2,45.5
+1001,01-01-2023,Alice Johnson,USA,F,29,Headphones,Electronics,1,99.99
+1002,02-01-2023,Bob Smith,usa,M,35,Laptop,Electronics,1,899.0
+1003,02-01-2023,Charlie Lee,Canada,M,40,Coffee Maker,Home Appliances,2,45.5
+1004,,David Kim,Canada,M,40,Coffee Maker,Home Appliances,2,45.5
+1004,,David Kim,Canada,M,40,Coffee Maker,Home Appliances,2,45.5
+1001,01-01-2023,Alice Johnson,USA,F,29,Headphones,Electronics,1,99.99
+1002,02-01-2023,Bob Smith,usa,M,35,Laptop,Electronics,1,899.0
+1003,02-01-2023,Charlie Lee,Canada,M,40,Coffee Maker,Home Appliances,2,45.5
+1004,,David Kim,Canada,M,40,Coffee Maker,Home Appliances,2,45.5
+1004,,David Kim,Canada,M,40,Coffee Maker,Home Appliances,2,45.5
+1001,01-01-2023,Alice Johnson,USA,F,29,Headphones,Electronics,1,99.99
+1002,02-01-2023,Bob Smith,usa,M,35,Laptop,Electronics,1,899.0
+1003,02-01-2023,Charlie Lee,Canada,M,40,Coffee Maker,Home Appliances,2,45.5
+1004,,David Kim,Canada,M,40,Coffee Maker,Home Appliances,2,45.5
+1004,,David Kim,Canada,M,40,Coffee Maker,Home Appliances,2,45.5
+1001,01-01-2023,Alice Johnson,USA,F,29,Headphones,Electronics,1,99.99
+1002,02-01-2023,Bob Smith,usa,M,35,Laptop,Electronics,1,899.0
+1003,02-01-2023,Charlie Lee,Canada,M,40,Coffee Maker,Home Appliances,2,45.5
+1004,,David Kim,Canada,M,40,Coffee Maker,Home Appliances,2,45.5
+1004,,David Kim,Canada,M,40,Coffee Maker,Home Appliances,2,45.5
+1001,01-01-2023,Alice Johnson,USA,F,29,Headphones,Electronics,1,99.99
+1002,02-01-2023,Bob Smith,usa,M,35,Laptop,Electronics,1,899.0
+1003,02-01-2023,Charlie Lee,Canada,M,40,Coffee Maker,Home Appliances,2,45.5
+1004,,David Kim,Canada,M,40,Coffee Maker,Home Appliances,2,45.5
+1004,,David Kim,Canada,M,40,Coffee Maker,Home Appliances,2,45.5
+1001,01-01-2023,Alice Johnson,USA,F,29,Headphones,Electronics,1,99.99
+1002,02-01-2023,Bob Smith,usa,M,35,Laptop,Electronics,1,899.0
+1003,02-01-2023,Charlie Lee,Canada,M,40,Coffee Maker,Home Appliances,2,45.5
+1004,,David Kim,Canada,M,40,Coffee Maker,Home Appliances,2,45.5
+1004,,David Kim,Canada,M,40,Coffee Maker,Home Appliances,2,45.5
+1001,01-01-2023,Alice Johnson,USA,F,29,Headphones,Electronics,1,99.99
+1002,02-01-2023,Bob Smith,usa,M,35,Laptop,Electronics,1,899.0
+1003,02-01-2023,Charlie Lee,Canada,M,40,Coffee Maker,Home Appliances,2,45.5
+1004,,David Kim,Canada,M,40,Coffee Maker,Home Appliances,2,45.5
+1004,,David Kim,Canada,M,40,Coffee Maker,Home Appliances,2,45.5
