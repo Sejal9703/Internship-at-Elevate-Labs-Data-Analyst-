@@ -1,0 +1,19 @@
+TASK 1 :
+# 🧹 Sales Data Cleaning and Preprocessing
+
+## 🎯 Objective
+To clean and prepare a raw sales dataset by handling missing values, duplicate entries, and inconsistent formats using Python (Pandas).
+
+## 📁 Dataset Description
+- 50 rows × 10 columns (raw and cleaned)
+
+
+## 🧪 Data Cleaning Steps
+- Removed duplicate rows
+- Dropped rows with missing dates
+- Standardized country names to uppercase
+- Converted `Date` column to datetime format
+- Renamed columns to lowercase with underscores
+
+
+
