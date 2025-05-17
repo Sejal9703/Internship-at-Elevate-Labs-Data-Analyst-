@@ -1,0 +1,19 @@
+1. SELECT category, COUNT(*) AS total_orders FROM orders GROUP BY category;
+
+2. SELECT supplier, AVG(return_flag) AS avg_return_rate FROM returns GROUP BY supplier;
+
+3. SELECT region, COUNT(DISTINCT customer_id) FROM orders GROUP BY region;
+
+4. SELECT category, COUNT(*) FROM returns GROUP BY category ORDER BY COUNT(*) DESC;
+
+5. SELECT product_id, COUNT(*) AS return_count FROM returns GROUP BY product_id HAVING COUNT(*) > 10;
+
+6. SELECT o.order_id, o.customer_id, r.return_date FROM orders o JOIN returns r ON o.order_id = r.order_id;
+
+7. SELECT category, ROUND(SUM(CASE WHEN return_id IS NOT NULL THEN 1 ELSE 0 END)*100.0/COUNT(*),2) AS return_percent FROM orders LEFT JOIN returns USING(order_id) GROUP BY category;
+
+8. SELECT channel, COUNT(*) AS total_returns FROM returns JOIN orders USING(order_id) GROUP BY channel;
+
+9. SELECT region, category, COUNT(*) AS return_count FROM returns JOIN orders USING(order_id) GROUP BY region, category;
+
+10. SELECT * FROM orders WHERE order_date BETWEEN '2024-01-01' AND '2024-03-31' AND order_id NOT IN (SELECT order_id FROM returns);

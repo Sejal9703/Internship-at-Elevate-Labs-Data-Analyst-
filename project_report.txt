@@ -1,0 +1,30 @@
+
+# E-commerce Return Rate Reduction Analysis Report
+
+## Objective
+Identify reasons for product returns and analyze return trends by category, geography, and marketing channel.
+
+## Tools Used
+- Python (for cleaning, modeling, prediction)
+- SQL (for querying insights)
+- Power BI (for dashboard visualization)
+
+## Summary
+- Cleaned and merged datasets.
+- Analyzed return rates.
+- Built a logistic regression model.
+- Identified high-risk products.
+
+## SQL Query Samples
+(Refer to `sql_queries.txt`)
+
+## Python Codebase
+Included in the notebook `ecommerce_return_analysis.ipynb`.
+
+## Dashboard Snapshot
+(Insert Power BI dashboard screenshots here)
+
+## High-Risk Products
+Refer to `high_risk_products.csv` for high-return-probability products.
+
+---
